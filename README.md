@@ -1,5 +1,5 @@
 # ctcae-chatbot
-## NOT FOR CLINICAL USE
+#### NOT FOR CLINICAL USE
 This is a simple proof-of-concept chatbot for symptom gathering and classification acc. to CTCAE guidelines.
 
 To run this locally, you will need to have access to GPT-4 and set your OpenAI API key as a local variable in the 'env' file or as a variable in main.py as 'OPENAI_API_KEY'.
